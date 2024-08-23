@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-yunchongqu/Pipeline-Example-Python/_apis/build/status%2Ffatalfake.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/v-yunchongqu/Pipeline-Example-Python/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
